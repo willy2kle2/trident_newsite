@@ -1,0 +1,37 @@
+<html>
+<head><title>Form</title></head>
+<body>
+<p align="center"><b>BOOT-CAMP TRAINING REGISTRATION FORM</b></P><hr>
+<font size = "2" font color="blue">Fill this form to register for the december training. Please ensure your phone number and email address is correct.You may also Email directly to <font color="black">"sales@tridentelect.com".</font></font>
+<form action = "http://www.tridentelect.com/processor-referencer/formsub.php", method = "post" >
+<table width = "100%">
+<tr>
+<td align = "20%"><font size = "2">Surname</font></td><td align = "50%">&nbsp;</td><td align = "50%"><input type = "text", name = "surname", size = "32"></td>
+</tr>
+<tr>
+<td align = "20%"><font size = "2">OtherNames</font></td><td align = "50%">&nbsp;</td><td align = "50%"><input type = "text", name = "othernames", size = "32"></td>
+</tr>
+<tr>
+<td align = "20%"><font size = "2">Email</font></td><td align = "50%">&nbsp;</td><td align = "50%"><input type = "text", name = "email", size = "32"></td>
+</tr>
+<tr>
+<td align = "20%"><font size = "2">Phone Num</font></td><td align = "50%">&nbsp;</td><td align = "50%"><input type = "text", name = "phone", size = "32"></td>
+</tr>
+<tr>
+<td align = "20%"><font size = "2">Institution</font></td><td align = "50%">&nbsp;</td><td align = "50%">
+<input type="text" name="kits" size="33"></td>
+
+</tr>
+<tr>
+<td align = "20%", valign = "top"><font size = "2">Questions about the training</font></td>
+<td>&nbsp;</td>
+<td align = "50%"><textarea rows = "15" cols = "25" name = "message"></textarea></td>
+</tr>
+</table>
+<table align = "center">
+<td><br><input type = "reset"></td><td><br><input type = "submit", value = "Submit"></td>
+</table>
+</form>
+
+</body>
+</html>

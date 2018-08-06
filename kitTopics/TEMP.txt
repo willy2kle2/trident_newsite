@@ -1,0 +1,344 @@
+<div class="group">
+      <table width="100%">
+     <tr>
+     <td><h5>MISCELLENEOUS (Electronics)</h5></td>
+<td><h5>MISCELLENEOUS (Electronics)</h5></td>
+<td><h5>PIC BASED/OTHER MICROCONTROLLERS</h5></td>
+<td><h5>COMPUTER CONTROLLED/INTERFACE</h5></td>
+</tr>
+
+<tr>
+    <br><td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+     <td><a href="javascript:newWindow1()">Two-Station Intercom/Room Bug<a/></td>
+<td><a href="javascript:newWindow2()">Audio Signal Generator</a></td>
+<td><a href="javascript:newWindow3()">4 Channel IR remote Control</a></td>
+<td><a href="javascript:newWindow4()">Coded Access Security System</a></td>
+</tr>
+<tr>
+<td><a href="javascript:newWindow5()">Car Batt. Checker</a></td>
+<td><a href="javascript:newWindow6()">AC/DC current clamp meter</a></td>
+<td><a href="javascript:newWindow7()">Dig.Stop watch</a></td>
+<td><a href="javascript:newWindow8()">Variable square-wave generator (using parallel port)</a></td>
+</tr>
+<tr>
+<td><a href="javascript:newWindow9()">Car Immobilizer</a></td>
+<td><a href="javascript:newWindow10()">Auto. Water Pump</a></td>
+<td><a href="javascript:newWindow11()">Dig. Inductance Meter(PIC)</a></td>
+<td><a href="javascript:newWindow12()">Pulse-Width Modulator (using parallel port)</a></td>
+</tr>
+<tr>
+<td><a href="javascript:newWindow13()">Electronic Car Ignition</a></td>
+
+<td><a href="javascript:newWindow15()">Dig. Capacitance Meter(PIC)</a></td>
+<td><a href="javascript:newWindow16()">Dig. Thermometer</a></td>
+</tr>
+
+<tr>
+    <td><a href="javascript:newWindow17()">Electronic Hearing Aid</a></td>
+<td><a href="javascript:newWindow18()">Dig. Coded Access security System</a></td>
+<td><a href="javascript:newWindow19()">Dig. Voltmeter(PIC)</a></td>
+<td><a href="javascript:newWindow20()">6-Wire Stepper Motor Controller</a></td>
+</tr>
+
+<tr>
+     <td><a href="javascript:newWindow21()">Fibre Optic Comm. Link</a></td>
+<td><a href="javascript:newWindow22()">Dig. Stop Watch</a></td>
+<td><a href="javascript:newWindow23()">Dig. Thermometer(PIC)</a></td>
+<td><a href="javascript:newWindow24()">5-Wire Stepper Motor Controller</a></td>
+</tr>
+
+<tr>
+     <td><a href="javascript:newWindow25()">Graphic Equalizer</a></td>
+<
+<td><a href="javascript:newWindow27()">Dig. Wattmeter(PIC)</a></td>
+<td><a href="javascript:newWindow28()">Computer Controlled Auto. Room Lights/Home Security</a></td>
+</tr>
+
+<tr>
+     <td><a href="javascript:newWindow29()">Guitar Tremolo</a></td>
+<td><a href="javascript:newWindow30()">Dig. Reactor Timer</a></td>
+<td><a href="javascript:newWindow31()">Dig. Frequency Meter(PIC)</a></td>
+<td><a href="javascript:newWindow32()">Computerized Data Aquistion System</a></td>
+</tr>
+
+
+<tr>
+     <td><a href="javascript:newWindow33()">Loud Speaker Level Meter</a></td>
+<td><a href="javascript:newWindow34()">Dig. Phase Detector</a></td>
+<td><a href="javascript:newWindow35()">Dig. Clock(PIC)</a></td>
+<td><a href="javascript:newWindow36()">USB Computer Interface Board</a></td>
+</tr>
+
+
+<tr>
+    <td><a href="javascript:newWindow37()">Low Fuel Alert</a></td>
+<td><a href="javascript:newWindow38()">Dig. Frequency Counter</a></td>
+
+<td><a href="javascript:newWindow40()">Computerized Liquid Level Control/Actuator</a></td>
+</tr>
+
+<tr>
+     <td><a href="javascript:newWindow41()">Video Signal Amplifier</a></td>
+<td><a href="javascript:newWindow42()">Function Generator</a></td>
+<td><a href="javascript:newWindow43()">EPROM Programmeer(PIC)</a></td>
+<td><a href="javascript:newWindow44()">Computerized Buglar Alarm System</a></td>
+</tr>
+
+<tr>
+<td><a href="javascript:newWindow45()">Audio Power Amplifier (500w)</a></td>
+<td><a href="javascript:newWindow99()">Gas leakage sensor</a></td>
+<td><a href="javascript:newWindow47()">Electronic Thermostat(PIC)</a></td>
+<td><a href="javascript:newWindow71()">LCD Adding Machine(PIC)</a></td>
+</tr>
+<tr>
+<td><a href="javascript:newWindow62()">Light Triggered Alarm</a></td>
+<td><a href="javascript:newWindow46()">Human Traffic Monitoring System</a></td>
+<td><a href="javascript:newWindow51()">Moving Message Display(8031)</a></td>
+<td><a href="javascript:newWindow63()">Ultrasonic Proximity Switch(PIC)</a></td>
+</tr>
+<tr>
+<td><a href="javascript:newWindow49()">Audio Power Amplifier (200w)</a></td>
+
+<td><a href="javascript:newWindow52()">Temperature Data Logger</a></td>
+<td><a href="javascript:newWindow68()">PC Controlled T-Junction Traffic Lights</a></td>
+</tr>
+<tr>
+<td><a href="javascript:newWindow66()">Low Fuel Alert</a></td>
+
+<td><a href="javascript:newWindow59()">High Intensity LED Touch Light(PIC)</a></td>
+<td><a href="javascript:newWindow64()">PC controlled Automatic Mains Timer</a></td>
+
+</tr>
+
+
+
+
+
+
+
+<tr>
+     <td><a href="javascript:newWindow53()">Solar Inverter 500VA</a></td>
+
+<td><a href="javascript:newWindow60()">PC Controlled LED Counter</a></td>
+</tr>
+
+<tr>
+    
+   <td><a href="javascript:newWindow57()">Inverters (500VA-5kVA)</a></td>
+    
+
+
+<td><a href="javascript:newWindow48()">Computerized Voting/Counting Machine</a></td>
+<td><a href="javascript:newWindow76()">PIR Automatic Door Bell</a></td>
+</tr>
+
+<tr>
+     
+</td>
+<td><a href="javascript:newWindow70()">Metal Detector</a></td>
+<td><a href="javascript:newWindow55()">Smart Card Reader(PIC)</a></td>
+
+<td><a href="javascript:newWindow71()">LCD Adding Machine(PIC)</a></td>
+</tr>
+
+<tr>
+     
+
+<td><a href="javascript:newWindow65()">Voltage Stabilizers(500VA-5KVA)</a></td>
+<td><a href="javascript:newWindow56()">PC controlled LCD Counter</a></td>
+</tr>
+
+<tr>
+<td><a href="javascript:newWindow69()">Automatic Battery Charger</a></td>
+<td><a href="javascript:newWindow67()">LCD Digital Thermometer(PIC)</a></td>
+<td></td>
+<td>
+</tr>
+
+<tr>
+<td><a href="javascript:newWindow80()">Microwave Oven(PIC)</a></td>
+<td><a href="javascript:newWindow72()">Solar Battery Charger</a></td>
+<td>
+<td>
+
+</tr>
+<tr>
+
+<td><a href="javascript:newWindow82()">Microwave Oven Control(PIC)</a></td>
+
+<td><a href="javascript:newWindow75()">Heavy Duty Battery Charger</a></td>
+<td>
+<td></tr>
+
+<tr>
+<td><a href="javascript:newWindow84()">AM Transmitter</a></td>
+<td><a href="javascript:newWindow79()">PIR Home Security System</a></td>
+<td>
+<td></tr>
+
+<tr>
+    
+<td><a href="javascript:newWindow86()">FM Transmitter</a></td>
+<td><a href="javascript:newWindow81()">Pressure Mat Security System</a></td>
+</tr>
+
+<tr>
+    
+<td><a href="javascript:newWindow87()"> Sound Triggered Alarm</a></td>
+<td><a href="javascript:newWindow83()">Pump Actuator</a></td>
+</tr>
+
+<tr>
+<td><a href="javascript:newWindow88()">FM reciever</a></td>
+<td><a href="javascript:newWindow85()"> Phase & Surge Monitoring System</a></td>
+<td><a href="#"></a></td>
+<td><a href="#"></a></td>
+</tr>
+
+<tr>
+<td><a href="javascript:newWindow90()"> Dig. FM reciever(PIC)</a></td>
+<td><a href="javascript:newWindow89()"> Telephone Conversation Recorder</a></td>
+<td><a href="#"></a></td>
+<td><a href="#"></a></td>
+</tr>
+
+<tr>
+<td><a href="javascript:newWindow99()"> Stress meter</a></td>
+<td><a href="javascript:newWindow91()"> T-Junction Traffic Light</a></td>
+<td><a href="#"></a></td>
+<td><a href="#"></a></td>
+</tr>
+<tr>
+<td></td>
+<td><a href="javascript:newWindow92()"> Tollgate Counter</a></td>
+</tr>
+<tr>
+<td></td>
+<td><a href="javascript:newWindow93()">Two-Tone Siren</a></td>
+</tr>
+<tr>
+<td></td>
+<td><a href="javascript:newWindow94()">Touch Sensitive Switch with Alarm</a></td>
+</tr>
+<tr>
+<td></td>
+<td><a href="javascript:newWindow95()">Ultrasonic Radar System</a></td>
+</tr>
+<tr>
+<td>
+<td><a href="javascript:newWindow96()">Ultrasonic Proximity Switch</a></td>   
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+
+<td>    
+<td><a href="javascript:newWindow97()">Switch Mode Power Supply</a></td>
+<td><a href="#"></a></td>
+<td><a href="#"></a></td>
+</tr>
+
+
+
+<tr>
+
+   
+
+<td></td>
+<td><a href="javascript:newWindow98()">Solar Mobile Phone Charger</a></td>
+</tr>
+
+
+<tr>
+
+<td></td>   
+<td>
+<td><a href="#"></a></td>
+<td><a href="#"></a></td>
+</tr>
+
+<tr>
+
+<td></td>   
+<td>
+<td><a href="#"></a></td>
+<td><a href="#"></a></td>
+</tr>
+
+<tr>
+<td><a href="#"></a></td>
+<td></td>
+<td><a href="#"></a></td>
+<td><a href="#"></a></td>
+</tr>
+
+<tr>
+<td><a href="#"></a></td>
+<td></td>
+<td><a href="#"></a></td>
+<td><a href="#"></a></td>
+</tr>
+
+
+<tr>
+<td><a href="#"></a></td>
+<td></td>
+<td><a href="#"></a></td>
+<td><a href="#"></a></td>
+</tr>
+
+<tr>
+<td><a href="#"></a></td>
+<td></td>
+<td><a href="#"></a></td>
+<td><a href="#"></a></td>
+</tr>
+
+
+<tr>
+<td><a href="#"></a></td>
+<td></td>
+<td><a href="#"></a></td>
+<td><a href="#"></a></td>
+</tr>
+
+
+<tr>
+<td><a href="#"></a></td>
+<td></td>
+<td><a href="#"></a></td>
+<td><a href="#"></a></td>
+</tr>
+
+
+<tr>
+<td><a href="#"></a></td>
+<td></td>
+<td><a href="#"></a></td>
+<td><a href="#"></a></td>
+</tr>
+<p>This page is still under construction, however if you need information on this kit urgently you may use the <a href="formsub.html"><font color ="blue"><u> "PROJECT KIT ENQUIRY FORM"</u></font></a><br>
+ or simply 
+email your questions to projectkits@tridentelect.com or contact us on telephone(01-7359425, 07030144572).<br> please quote the <b>kit code</b> above when contacting us.</p>
+
+<ul>
+<li>You can be a trident distributor (from our franchise deal). Own your  mini trident store, sell high quality computer parts, electronic and IT products anywhere in Nigeria and Ghana? This is a business opportunity you won't want to miss!
+</b><br><a href="franchise.html">(more details)</a>
+<li>You can order components, project-kits and any other products on this site and get it sent to anywhere in Nigeria and Ghana?</b><br>For our project kits, we have  well equipped electronic labs in Lagos, Abuja and Port-Harcourt, where trained local engineers can assist, while you still get full technical support from london.&nbsp;&nbsp;<br>
+
+
+      </table>
+			
+		
+		
+		</div>
+
+	</div>
+
+

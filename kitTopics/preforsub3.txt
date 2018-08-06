@@ -1,0 +1,110 @@
+
+<?
+  $email = $_REQUEST['email'] ;
+  $message = $_REQUEST['message'] ;
+  $surname = $_REQUEST['surname'] ;
+  $othernames = $_REQUEST['othernames'] ;
+  $phone = $_REQUEST['phone'] ;
+  $course = $_REQUEST['course'] ;
+  $institution = $_REQUEST['institution'] ;
+
+
+
+
+  if (!isset($_REQUEST['message'])) 
+  {
+    header( "Location: http://www.tridentelect.com/" );
+  }
+  
+
+  
+  elseif (empty($email) && empty($message)) 
+  {
+    header( "Expires: Wed, 14 Mar 2008 01:00:00 GMT" );
+    header( "Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT" );
+    header( "Cache-Control: no-cache, must-revalidate" );
+    header( "Pragma: no-cache" );
+
+    ?>
+
+<script>
+<!--
+document.write(unescape("%09%3Chtml%3E%0D%0A%09%3Chead%3E%3Ctitle%3ETRIDENTELECT%20-%20Error%3C/title%3E%3C/head%3E%0D%0A%09%3Cbody%3E%0D%0A%09%3Cp%20align%20%3D%20%22center%22%3E%3Cfont%20color%20%3D%20%22red%22%3EYou%20have%20not%20really%20supplied%20valid%20information.%3C/font%3E%0D%0A%09%3Cbr%3E%0D%0A"));
+//-->
+</script>
+
+	Please, <a href="javascript:window.close()"><font color = "blue">go back</font></a> to the form and try again.
+
+<script>
+<!--
+document.write(unescape("%09%3C/p%3E%0D%0A%09%3C/body%3E%0D%0A%09%3C/html%3E"));
+//-->
+</script>
+
+    <?
+  }
+
+
+
+  elseif (empty($surname) || empty($othernames)) 
+  {
+   ?>
+
+<script>
+<!--
+document.write(unescape("%20%20%20%3Chtml%3E%0D%0A%20%20%20%3Chead%3E%3Ctitle%3ETRIDENTELECT%20-%20Error%3C/title%3E%3C/head%3E%0D%0A%20%20%20%3Cbody%3E%0D%0A%20%20%20%3Cp%20align%20%3D%20%22center%22%3E%3Cfont%20color%20%3D%20%22red%22%3EYou%20have%20not%20supplied%20your%20name.%3C/font%3E%0D%0A%20%20%20%3Cbr%3E%0D%0A"));
+//-->
+</script>
+
+   Please, <a href="javascript:window.close()"><font color = "blue">go back</font></a> to the last page and try again.<br> Or email directly to <font color="blue">projectkits@tridentelect.com.</font> Thanks
+
+<script>
+<!--
+document.write(unescape("%20%20%20%3C/p%3E%0D%0A%20%20%20%3C/body%3E%0D%0A%20%20%20%3C/html%3E"));
+//-->
+</script>
+
+   <?
+  }
+
+
+
+  elseif (!ereg("([[:alnum:]\.\-]+)(\@[[:alnum:]\.\-]+\.+)", $email)) 
+  {
+   ?>
+
+<script>
+<!--
+document.write(unescape("%20%20%20%3Chtml%3E%0D%0A%20%20%20%3Chead%3E%3Ctitle%3ETRIDENTELECT%20-%20Error%3C/title%3E%3C/head%3E%0D%0A%20%20%20%3Cbody%3E%0D%0A%20%20%20%3Cp%20align%20%3D%20%22center%22%3E%3Cfont%20color%20%3D%20%22red%22%3EUnfortunately%2C%20your%20email%20address%20may%20have%20been%20typed%20wrongly.%3C/font%3E%0D%0A%20%20%20%3Cbr%3E%0D%0A"));
+//-->
+</script>
+
+   Please, <a href="javascript:window.close()"><font color = "blue">go back</font></a> to the last page and try again.<br> Or email directly to <font color="blue>projectkits@tridentelect.com.</font> Thanks
+
+
+<script>
+<!--
+document.write(unescape("%20%20%20%3C/p%3E%0D%0A%20%20%20%3C/body%3E%0D%0A%20%20%20%3C/html%3E"));
+//-->
+</script>
+
+   <?
+  }  
+else 
+{  mail( "projectkits@tridentelect.com", "Contact/Enquiry Form",
+    "\nSurname: $surname\nOther Names: $othernames\n\nEmail: $email\nPhone Number: $phone\n\nInstitution: $institution\n\nCourse: $course\n\n\nEnquiries & Questions: $message\n\n\n\nMessage Received 
+From http://www.tridentelect.com\n\nTechnology Developed by Trident Technologies", "From: $email" );
+
+   
+  echo "Thanks! We have received your contact, we shall get back to you soon.";
+?>
+<!My HTML>
+<?
+
+
+   }
+
+
+
+
+?>
